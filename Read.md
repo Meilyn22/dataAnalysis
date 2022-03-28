@@ -26,11 +26,10 @@ Matplotlib
 
 # Useful Websites
 
-* [Web Site Name](https://pandas.pydata.org/docs/user_guide/10min.html#min)
-* [Web Site Name](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
+* [Pandas tutorial](https://pandas.pydata.org/docs/user_guide/10min.html#min)
+* [Pandas Into](https://pandas.pydata.org/docs/getting_started/intro_tutorials/index.html)
 
 # Future Work
-
 
 * Use Jupyter notebook to run the questions separately.
 * Analyze the data information and describe in detail what the data contains.
