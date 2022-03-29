@@ -30,4 +30,3 @@ top_10 = data.nlargest(10, 'Revenue (Millions)')[['Title', 'Revenue (Millions)']
 sns.barplot(x='Revenue (Millions)', y=top_10.index, data=top_10)
 plt.title('Top 10 Highest Revenue Movie Titles')
 plt.show()
-
